@@ -1,4 +1,4 @@
-import {Todo} from './todo.class';
+import {Todo} from './todo-class';
 import { TodoList } from './todo-list';
 import {crearHtml} from './generar';
 

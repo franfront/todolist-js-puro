@@ -1,4 +1,4 @@
-import {Todo} from './todo.class';
+import {Todo} from './todo-class';
 import {todoList} from '../index'
 
 const divTodo = document.querySelector('.todo-list');
